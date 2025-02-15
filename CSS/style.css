@@ -1,0 +1,22 @@
+body {
+ background-image: url("https://i.pinimg.com/236x/1d/78/fe/1d78fe3ddc4ad3097c2b39f86f08d0a7.jpg");
+ background-color: #cccccc;
+}
+.jumbotron{
+  background-color:#cafae4;
+}
+.work{
+  padding-top: 1em;
+  padding-bottom:1em;
+}
+.btn-primary{
+  color:black;
+  background-color: white;
+}
+.about{
+  width:50%;
+  border-radius: 80px;
+}
+.about-text{
+  font-size: 40px;
+}
